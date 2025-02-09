@@ -29,7 +29,7 @@ public class StarPyramid {
 
 //       *    // 4 space after 1 star
 //      ***   //  3 space from beginning after 3 star
-    //    *****  //  2 space after 5 stars
-    //   *******    //1,7
-    //  *********   //0,9
+//     *****  //  2 space after 5 stars
+//    *******    //1,7
+//   *********   //0,9
 }
